@@ -1,5 +1,5 @@
 # education
-商城项目
+在线教育项目
 使用目前流行的SpringBoot+SpringCloud进行微服务架构，
 使用Feign、Gateway、Hystrix，以及阿里巴巴的Nacos等组件搭建了项目的基础环境。
 项目中还使用MyBatisPlus进行持久层的操作，
